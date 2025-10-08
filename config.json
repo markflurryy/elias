@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "x",
+    "email": "",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -12,26 +12,23 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "obito-bot",
+  "nickNameBot": "Lou Bot",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078794143432",
-    "100001986888287",
-    "100000180724818"
+    "100024270410090",
+    "100001481476183"
   ],
   "developers": [
-    "100078794143432",
-    "100001986888287",
-    "100000180724818"
+    "100024270410090",
+    "100001481476183"
   ],
   "premium": [
-    "100078794143432",
-    "100001986888287",
-    "100000180724818"
+    "100024270410090",
+    "100001481476183"
   ],
   "whiteListMode": {
     "enable": false,
